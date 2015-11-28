@@ -1,0 +1,1 @@
+Just an .vimrc for my competitive programming purposes
